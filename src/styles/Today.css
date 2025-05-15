@@ -1,0 +1,36 @@
+.box{
+    padding-top: 100px;
+    padding-left: 230px;
+    
+}
+
+.box1{
+    width: 70%;
+    box-shadow: 5px 5px 10px rgb(15, 93, 250);
+    border-radius: 10px;
+    height: 100%;
+    display: flex;
+   justify-content: center;
+    flex-direction: row;
+    align-items: center; 
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+   
+}
+.box_day{
+    margin: 100px;
+}
+
+.logo_jour{
+    font-size: 90px;
+    text-align: center;
+}
+.jour_day{
+    padding-top: 17px;
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+
+}

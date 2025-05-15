@@ -1,0 +1,26 @@
+.pred{
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 20%;
+    display: inline-block;
+    
+}
+
+.predictions_semaines{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgb(15, 93, 250);
+    padding-top: 23px;
+    padding-bottom: 20px;
+    
+
+}
+.predictions_semaines p{
+    font-weight: bold;
+}
+.emojis{
+    font-size: 25px;
+}

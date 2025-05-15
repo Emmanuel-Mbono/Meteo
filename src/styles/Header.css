@@ -1,0 +1,22 @@
+.met-header{
+    color: white;
+    background-color: rgb(15, 93, 250);
+    text-align: right;
+    padding: 28x;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 1);
+
+}
+
+.met-title{
+    font-family: cursive;
+    padding-left: 32px;
+}
+
+.met-logo{
+    height: 75px;
+    width: 75px;
+}
